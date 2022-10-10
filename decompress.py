@@ -1,3 +1,4 @@
+## Баленко Д.А ИБ/б-21-1-о 10.10.2022
 import time
 timetaken = time.time()
 decompress = open("C:/Users/Dhruv/Desktop/LZW/write.bin", "rb")
